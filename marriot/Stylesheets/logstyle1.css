@@ -1,0 +1,63 @@
+body {
+
+margin: 20px;
+font-family: Verdana;
+font-size: 18px;
+background: #ffffff;
+}
+
+#theform {
+
+display: block;
+padding: 15px;
+border: solid 2px black;
+margin: auto;
+}
+
+.row {
+display: table-row;
+}
+
+.row label {
+dispaly: table-cell;
+padding: 10px;
+text-align: left;
+}
+
+.row input {
+display: table-cell;
+padding: 10px;
+}
+
+
+
+
+.button {
+
+background: #e7e7e7;
+border: 1px solid;
+border-radius: 3px;
+font: 700 13px Helvetica;
+height: 30px;
+line-height: 28px;
+padding: 0px 20px;
+text-align: center;
+box-sizing: border-box;
+display: block;
+margin: auto;
+width: 10%;
+text-decoration: none;
+color: #303030;
+}
+
+
+h2 {
+
+font-family: Verdana;
+background: #ffffff;
+color: #903139;
+border-radius: 5px;
+height: 70px;
+line-height: 68px;
+text-align: center;
+}
